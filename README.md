@@ -126,7 +126,7 @@ At a glance:
 
 请扫描下方二维码加入微信群组：
 
-![1Cat-vllm 开源交流群1](docs/group2.jpg)
+![1Cat-vLLM 开源交流群2](docs/group2.jpg)
 
 ## Validated stack
 
